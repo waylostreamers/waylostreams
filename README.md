@@ -1,4 +1,4 @@
 # waylostreams
 
-(https://waylostreams.live/)
+https://waylostreams.live/
 
